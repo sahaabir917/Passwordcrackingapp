@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commonpassmsg">It is one of the 25th common password . try something better !</string>
+
+    <string-array name="commonpasswords">
+        <item>password</item>
+        <item>123456</item>
+        <item>1234</item>
+        <item>qwerty</item>
+        <item>pussy</item>
+        <item>baseball</item>
+        <item>football</item>
+        <item>letmein</item>
+        <item>monkey</item>
+    </string-array>
+
+</resources>
